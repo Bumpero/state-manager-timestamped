@@ -1,0 +1,16 @@
+{
+  "name": "state-manager-timestamped",
+  "author": "bumpero",
+  "version": "1.0.0",
+  "description": "A state management system with timestamping, versioning, and navigation.",
+  "main": "src/state-manager-timestamped.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "ts-jest": "^29.0.0",
+    "typescript": "^5.0.0"
+  }
+}
